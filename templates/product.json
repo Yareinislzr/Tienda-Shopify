@@ -58,17 +58,18 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Descripción",
             "icon": "leather",
-            "content": "<p>Siéntete como la protagonista de tu propio cuento de hadas con este deslumbrante diseño.</p>",
+            "content": "<p><strong>Ideal para:</strong> Mujeres que buscan una presencia imponente y lujosa.</p>",
             "page": ""
           }
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Returns",
+            "heading": "Recomendaciones",
             "icon": "truck",
             "content": "",
             "page": ""
