@@ -87,9 +87,9 @@
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Care Instructions",
+            "heading": "Cuidados",
             "icon": "heart",
-            "content": "",
+            "content": "<p><strong>Cómo Caminar:</strong> Con tanto volumen, el truco es dar una pequeña \"patada\" suave hacia adelante con cada paso para no pisar el bajo del vestido.</p>",
             "page": ""
           }
         },
