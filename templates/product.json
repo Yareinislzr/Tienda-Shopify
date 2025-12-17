@@ -71,16 +71,16 @@
           "settings": {
             "heading": "Descripción",
             "icon": "truck",
-            "content": "",
+            "content": "<p><strong>Ideal para:</strong> Mujeres que buscan una presencia imponente y lujosa.</p>",
             "page": ""
           }
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Dimensions",
+            "heading": "Recomendación",
             "icon": "ruler",
-            "content": "",
+            "content": "<p><strong>Ideal para:</strong> Mujeres que buscan una presencia imponente y lujosa.</p>",
             "page": ""
           }
         },
