@@ -69,7 +69,7 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Recomendaciones",
+            "heading": "Descripción",
             "icon": "truck",
             "content": "",
             "page": ""
