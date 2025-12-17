@@ -69,9 +69,9 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Descripción",
+            "heading": "{{ product.title }}",
             "icon": "shoe",
-            "content": "<p>Siéntete como la protagonista de tu propio cuento de hadas con este deslumbrante diseño. El corpiño, delicadamente trabajado con encaje floral y sutiles transparencias, se ajusta a la perfección para definir tu silueta. La falda, compuesta por múltiples capas de tul premium, aporta un movimiento ligero y un volumen espectacular que te hará flotar al caminar.<br/><br/></p>",
+            "content": "{{ product.description }}<p><br/><br/></p>",
             "page": ""
           }
         },
