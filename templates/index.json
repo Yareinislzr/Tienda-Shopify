@@ -64,14 +64,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Elegancia sin esfuerzo",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>Descubre una colección de moda y accesorios para el hombre y la mujer moderna. Envíos garantizados y atención personalizada en cada detalle.<br/><br/></p>"
           }
         }
       },
