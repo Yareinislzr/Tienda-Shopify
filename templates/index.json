@@ -166,8 +166,8 @@
         "collection-1"
       ],
       "custom_css": [
-        ".collage {width: 100%;}",
-        ".card card--standard card--media card--extend-height {width: 600px !important;}"
+        ".page-width section-template--21161611854080__collage-padding {width: 100%;}",
+        ".card-wrapper animate-arrow product-card-wrapper {width: 50vw !important;}"
       ],
       "settings": {
         "heading": "",
