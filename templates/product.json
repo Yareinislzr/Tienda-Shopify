@@ -111,7 +111,7 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "{{ product.title }}",
             "heading_size": "h1"
           }
         },
@@ -128,6 +128,7 @@
         "image-with-text-1"
       ],
       "settings": {
+        "image": "{{ product.featured_image }}",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
