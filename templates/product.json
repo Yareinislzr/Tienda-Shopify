@@ -70,15 +70,6 @@
             "page": ""
           }
         },
-        "collapsible_tab_QPeGWf": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Genero",
-            "icon": "check_mark",
-            "content": "{{ product.metafields.shopify[\"target-gender\"] | metafield_tag: field: 'label' }}",
-            "page": ""
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -96,7 +87,6 @@
         "buy_buttons",
         "collapsible-row-2",
         "collapsible-row-1",
-        "collapsible_tab_QPeGWf",
         "share"
       ],
       "settings": {
