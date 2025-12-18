@@ -52,13 +52,12 @@
             "show_gift_card_recipient": true
           }
         },
-        "collapsible-row-0": {
+        "collapsible-row-2": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Descripción",
-            "icon": "leather",
-            "content": "<p><strong>Ideal para:</strong> Mujeres que buscan una presencia imponente y lujosa.</p>",
+            "heading": "Producto",
+            "icon": "ruler",
+            "content": "<p>{{ product.title }}</p>",
             "page": ""
           }
         },
@@ -66,26 +65,8 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Descripción",
-            "icon": "shoe",
+            "icon": "plant",
             "content": "{{ product.description }}<p><br/><br/></p>",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Recomendación{{ product.title }}",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Cuidados",
-            "icon": "shoe",
-            "content": "<p><strong>Cómo Caminar:</strong> Con </p>{{ product.description }}<p>tanto volumen, el truco es dar una pequeña \"patada\" suave hacia adelante con cada paso para no pisar el bajo del vestido.</p>",
             "page": ""
           }
         },
@@ -104,10 +85,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "collapsible-row-0",
-        "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
+        "collapsible-row-1",
         "share"
       ],
       "settings": {
