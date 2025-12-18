@@ -165,6 +165,10 @@
         "collection-0",
         "collection-1"
       ],
+      "custom_css": [
+        ".color-scheme-1 gradient isolate{width: 100%;}",
+        ".card__inner color-scheme-2 gradient ratio,.collage__item collage__item--collection collage__item--right scroll-trigger animate--slide-in {width: 50%;}"
+      ],
       "settings": {
         "heading": "",
         "heading_size": "h2",
