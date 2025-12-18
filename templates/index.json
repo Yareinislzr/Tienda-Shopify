@@ -129,12 +129,14 @@
           "type": "product",
           "settings": {
             "product": "reloj-aura-gold-para-damas",
-            "second_image": true
+            "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
-          "settings": {}
+          "settings": {
+            "collection": "damas"
+          }
         }
       },
       "block_order": [
