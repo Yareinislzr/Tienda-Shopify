@@ -69,7 +69,7 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "{{ product.title }}",
+            "heading": "Descripción",
             "icon": "shoe",
             "content": "{{ product.description }}<p><br/><br/></p>",
             "page": ""
