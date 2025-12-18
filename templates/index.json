@@ -167,7 +167,7 @@
       ],
       "custom_css": [
         ".page-width section-template--21161611854080__collage-padding {width: 100%;}",
-        ".card-wrapper animate-arrow product-card-wrapper {width: 50vw !important;}"
+        ".card-wrapper animate-arrow product-card-wrapper,.card-wrapper animate-arrow product-card-wrapper{width: 50vw;}"
       ],
       "settings": {
         "heading": "",
