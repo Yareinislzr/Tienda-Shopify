@@ -122,21 +122,19 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "caballeros"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "reloj-aura-gold-para-damas",
+            "second_image": true
           }
         },
         "collection-1": {
           "type": "collection",
-          "settings": {
-            "collection": ""
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -162,6 +160,7 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify://shop_images/christmas-morning-video-chat.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "scheme-1",
