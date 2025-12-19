@@ -18,6 +18,3 @@ Formulario de suscripción integrado en el pie de página para estrategias de ma
 * **Sincronización:** Conexión directa mediante **GitHub** para el despliegue continuo de cambios en el tema.
 * **Entorno:** Utilización de una **tienda de desarrollo** gratuita para pruebas de integración y diseño antes del lanzamiento.
 
-## 📂 Cómo usar este repositorio
-1. Clonar el repositorio en tu entorno local.
-2. Utilizar el comando `git push origin main` para enviar cambios al tema conectado en Shopify.
