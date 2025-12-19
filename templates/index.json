@@ -48,14 +48,14 @@
         "image_2": "shopify://shop_images/woman-playing-with-blonde-hair.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "desktop_content_position": "bottom-center",
         "desktop_content_alignment": "center",
         "show_text_box": false,
         "color_scheme": "scheme-3",
-        "stack_images_on_mobile": false,
+        "stack_images_on_mobile": true,
         "mobile_content_alignment": "center",
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "rich_text": {
