@@ -10,7 +10,7 @@ Integración de información técnica adicional, como detalles de titulo y descr
 Implementación de un sistema de menús claro y categorizado para facilitar la exploración en todas las páginas.
 
 ### Funcionalidad Avanzada
-Script configurado para Implementación de un contador de tiempo (Countdown Timer) en la página de inicio para destacar ofertas por tiempo limitado.
+Script configurado para Implementación de un contador de tiempo  en la página de inicio para destacar ofertas por tiempo limitado.
 Formulario de suscripción integrado en el pie de página para estrategias de marketing por correo electrónico usando Mailchimp.
 
 ## 🛠️ Consideraciones Técnicas
